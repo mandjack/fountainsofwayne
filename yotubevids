@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fountains of Wayne Videos</title>
+</head>
+
+<body>
+
+    <h1>Fountains of Wayne Videos</h1>
+
+    <ul>
+
+        <li><a href="https://www.youtube.com/watch?v=ZBG381eDlP8">Stacy's Mom (Official Music Video)</a></li>
+
+        <li><a href="https://www.youtube.com/watch?v=3GwjfUFyY6M">Hackensack (Official Music Video)</a></li>
+
+        <li><a href="https://www.youtube.com/watch?v=O9mJ82SDOxs">Mexican Wine (Official Music Video)</a></li>
+
+    </ul>
+
+</body>
+
+</html>
