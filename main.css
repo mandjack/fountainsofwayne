@@ -1,6 +1,19 @@
 body{
     background-color: #494D5F;
 }
+
+div{
+  background: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.video-container{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+}
 .container {
     display: flex;
     justify-content: center;
