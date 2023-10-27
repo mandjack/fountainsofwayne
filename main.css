@@ -1,0 +1,55 @@
+body{
+    background-color: #494D5F;
+    background-image: url("C:\Users\jackr\Desktop\fwayne\office2.jpg");
+}
+
+div{
+  background: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+}
+
+.video-container{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  button {
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    height: 30px;
+    width: 600px;
+    border-radius: 18px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    flex: 1;
+    margin: 0 100px;
+    max-width: 300px;
+  }
+  .top-page{
+    font-family: Helvetica;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+}
+p{
+    font-family: monospace;
+    text-align: center;
+    font-size: 25px;
+    color:white;
+}
+tr{
+    color:white;
+    font-size: 20px;
+}
